@@ -4,7 +4,7 @@ This repository contains selected research code and supporting materials associa
 
 ## Implementation status
 
-**This repository is a partial public release. It does not contain the complete implementation of the full IOD system or a complete package for reproducing every experiment reported in the paper.**
+**This repository is a partial public release. It does not contain the complete implementation of the full IOD system.**
 
 The available notebook, dataset, and results archive should be understood as supporting research materials. Running the public materials alone should not be assumed to reproduce the entire system or all reported results.
 
